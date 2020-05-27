@@ -6,6 +6,8 @@ When User enter with <currency> and amount <amount>
 Then currency convered as per latest rate into Euro
 
 
+
+
 Examples:
 |currency|amount|
-| $      |100   |
+| USD    |100   |
